@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+
+db.sqlite3
+db.sqlite3-journal
+
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.coverage.*
+.cache/
+coverage.xml
+*.cover
+.pytest_cache/
+
+# Environments
+*.env*
+venv/
+
+# celery beat schedule file
+celerybeat-schedule
+
+
+# Translations
+*.mo
+*.pot

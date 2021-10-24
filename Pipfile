@@ -6,6 +6,10 @@ name = "pypi"
 [packages]
 django = "*"
 python-dotenv = "*"
+pytest = "*"
+pytest-django = "*"
+factory-boy = "*"
+faker = "*"
 
 [dev-packages]
 

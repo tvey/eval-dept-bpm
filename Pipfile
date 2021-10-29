@@ -10,6 +10,9 @@ pytest = "*"
 pytest-django = "*"
 factory-boy = "*"
 faker = "*"
+psycopg2 = "*"
+pillow = "*"
+django-phonenumber-field = {extras = ["phonenumberslite"], version = "*"}
 
 [dev-packages]
 
